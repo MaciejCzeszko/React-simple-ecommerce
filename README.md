@@ -1,8 +1,6 @@
-# React + Vite
+# React ecommerce website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Simple ecommerce, products fetched from an api and an ability to add to cart.
+Cart shows you all the items you added as well as total price of those items, you
+can also change the amount of items of each one individually by putting the value
+by hand or by clicking inside the input window
